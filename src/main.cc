@@ -32,7 +32,7 @@
 #include <vector>
 
 #include <boost/filesystem.hpp>
-#include <libpng/png.h>
+#include <png.h>
 
 // Return codes of the program:
 // 0: Success.
